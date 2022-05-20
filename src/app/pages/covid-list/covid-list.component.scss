@@ -1,0 +1,16 @@
+
+.covid-list {
+    h1 {
+        margin-top: 40px;
+        color: #050f4b;
+        font-size: 44px;
+    }
+    .mat-table {
+        margin-top: 40px;
+        width: 100%;
+
+        .mat-row:hover {
+            background-color: rgba(55, 65, 245, 0.1);
+        }
+    }
+}
